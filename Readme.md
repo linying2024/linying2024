@@ -1,6 +1,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=linying2024&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=linying2024&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=linying2024&layout=compact">
 </p>
 
 ### 爱发电赞助主页
