@@ -3,5 +3,11 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=linying2024&layout=compact">
 </p>
 
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg"  alt=""/>
+</p>
+
 ### 爱发电赞助主页
 ##### [点我跳转](https://ifdian.net/a/linying2024?tab=home)[https://ifdian.net/a/linying2024?tab=home]
