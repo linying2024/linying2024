@@ -8,6 +8,3 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"  alt=""/><br>
   <img src="https://profile-counter.glitch.me/linying2024/count.svg"  alt=""/>
 </p>
-
-### 爱发电赞助主页
-##### [点我跳转](https://ifdian.net/a/linying2024?tab=home)[https://ifdian.net/a/linying2024?tab=home]
